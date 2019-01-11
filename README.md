@@ -16,5 +16,7 @@
 
 [SICP]
 
+[Автоматное программирование](http://is.ifmo.ru/books/_book.pdf)
+
 
 
