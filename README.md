@@ -15,7 +15,8 @@
 [HTDP](https://www.htdp.org/)
 
 [SICP]
-.[ Мартин Фаулер. Шаблоны корпоративных приложений] (http://www.ooart.ru/uploads/book/arhitektura_korporativnyh_programmnyh_prilozhenij_fauler_m.pdf)
+
+[ Мартин Фаулер. Шаблоны корпоративных приложений] (http://www.ooart.ru/uploads/book/arhitektura_korporativnyh_programmnyh_prilozhenij_fauler_m.pdf)
 
 [Автоматное программирование](http://is.ifmo.ru/books/_book.pdf)
 
