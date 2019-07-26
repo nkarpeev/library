@@ -20,5 +20,7 @@
 
 [Автоматное программирование](http://is.ifmo.ru/books/_book.pdf)
 
+[Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)
+
 
 
